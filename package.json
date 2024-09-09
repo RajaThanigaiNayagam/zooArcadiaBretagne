@@ -23,5 +23,9 @@
         "watch": "encore dev --watch",
         "build": "encore production --progress"
     },
-    "homepage": "https://github.com/RajaThanigaiNayagam/zooArcadia#readme"
+    "homepage": "https://github.com/RajaThanigaiNayagam/zooArcadia#readme",
+    "engines": {
+      "node": "^20.0.0",
+      "npm": "^8.0.0"
+    }
 }
