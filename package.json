@@ -25,7 +25,7 @@
     },
     "homepage": "https://github.com/RajaThanigaiNayagam/zooArcadia#readme",
     "engines": {
-      "node": "22.8.0",
-      "npm": "10.8.2"
+      "node": "^20.0.0",
+      "npm": "^8.0.0"
     }
 }
